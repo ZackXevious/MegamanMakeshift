@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1080"
+   height="1080"
+   viewBox="0 0 285.74998 285.75"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="ShotgunIcon.svg"
+   inkscape:export-filename="D:\Users\Zaxev\Documents\MegamanDerpQuest\MMDerpQuest2\Assets\UIStuffs\Images\WeaponIcons\ShotgunIcon.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Sstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4532"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4523"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="1001.1332"
+     inkscape:cy="202.73051"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer4"
+     showgrid="true"
+     units="px"
+     inkscape:pagecheckerboard="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid827" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Circle"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-11.249993)"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <circle
+       id="path3713"
+       cx="142.875"
+       cy="154.12498"
+       style="fill:#000000;fill-opacity:1;stroke:#969611;stroke-width:39.53551483;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       r="123.10725" />
+    <ellipse
+       id="path3713-6"
+       cx="142.875"
+       cy="154.12498"
+       style="display:inline;fill:none;fill-opacity:1;stroke:#0a0000;stroke-width:16.1497097;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       rx="134.80014"
+       ry="134.80016" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Shotgun"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       id="path829-9"
+       style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:15.87499905;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 53.451454,276.26625 C 74.484412,275.58776 259.71027,221.98762 259.71027,221.98762 l -65.13438,-21.71147 81.41795,-75.99008 -86.84581,5.42786 59.70651,-92.273677 -92.27369,59.706493 5.42787,-86.845812 L 86.018635,91.718883 64.307184,26.58452 c 0,0 -54.957103,183.86886 -54.278624,206.25881 0.678478,22.38994 22.389922,44.10141 43.422894,43.42292 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zccccccccczz" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="ShotgunInternalBits"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id="path829-9-6-6"
+       style="fill:#c8c800;fill-opacity:1;stroke:#c8c800;stroke-width:3.96874976;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 56.814694,253.6392 c 13.57934,-1.23448 135.793456,-27.15869 135.793456,-27.15869 l -44.44149,-14.81385 61.7243,-37.03457 -61.72429,12.34486 51.8484,-41.97253 -54.31739,14.81383 L 195.07713,90.687034 125.94591,140.06648 140.75975,85.749093 98.787211,137.5975 111.13208,75.8732 74.097504,137.5975 59.28367,93.156008 c 0,0 -25.924207,122.214132 -27.15869,135.793482 -1.234484,13.57933 11.110373,25.92419 24.689714,24.68971 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zccccccccccccczz" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="ShotgunCircle">
+    <ellipse
+       style="fill:#ffff32;fill-opacity:1;stroke:#c8c800;stroke-width:18.42832184;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1461"
+       cx="90.487495"
+       cy="196.16963"
+       rx="46.869045"
+       ry="46.49107" />
+  </g>
+</svg>

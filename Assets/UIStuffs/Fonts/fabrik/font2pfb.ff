@@ -1,0 +1,9 @@
+#!/usr/bin/fontforge
+i = 1;
+while (i < $argc)
+    Print("converting ", $argv[i], "...");
+    Open($argv[i]);
+    pfb = $argv[i]:r + ".pfb";
+    Generate(pfb, "", 1);
+    i++
+endloop

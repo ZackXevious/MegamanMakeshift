@@ -1,0 +1,18 @@
+#!/usr/bin/fontforge
+if ($argc > 1)
+    Open($argv[1])
+    ttfile = $fontname + "Italic"
+    Print("Making ",ttfile)
+    SetFontNames(ttfile)
+    SelectAll()
+    if ($argc > 2)
+	Skew($2)
+    else
+	Skew(10)
+    endif
+
+    Save(ttfile+".sfd")
+    Close()
+else
+    Print("Usage: $0 font.sfd [italic angle, default 10]")
+endif

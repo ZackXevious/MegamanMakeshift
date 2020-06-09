@@ -1,0 +1,85 @@
+FONTLOG.txt for Fabrik
+
+OFL Open Font License
+http://scripts.sil.org/OFL
+
+Fontfamily Fabrik by Uwe Borchert 
+E-Mail: uwe.borchert@gmx.de
+
+This typeface is initialy based on Beteckna Ver. 0.2
+by Johan Mattsson and inspired by the (original) Erbar 
+Grotesk, Drescher Grotesk BT (Drescher Grotesk BT 
+SmallSizes -> Footnote), house numbers, road signs 
+in Germany, the numbers of Prof. Dr. Klein, Paul 
+Renners Bahnhofsfutura (1924) and Bauhaus-movement. 
+In short this is a real ,,Deutsche Grotesk'' (on
+american english a "german gothic") in 1920th style.
+
+Black     : real fat Headlines
+Bold      : medium and small Headlines (*)
+Regular   : textfont
+Condensed : condensed Textfont
+BoldCond  : condensed Headlines (since Version 1.1)
+Italic    : quotes (not realy good)
+Footnote  : very small Text (Footnotes, experimental)
+
+(*) Use should use black or a real display typeface 
+    for big headlines
+
+There are three fontforge-script for generating the 
+first guesses for the bold, condensed and italic out 
+of the normal/regular font. See in the subdirectory
+scripts for: sfd2bold.ff, sfd2cond.ff and sfd2ital.ff. 
+There are also a few *.sh an *.ff scripts for the 
+automatic batch conversion in the top directory.
+    
+The typeface "Fabrik" is made for labels on glasses 
+with spice to replace the commercial typefaces Futura 
+and/or Drescher Grotesk BT. The free typeface Tapir 
+(inspired by Rudolf Kochs Kabel, aka Cable) is used 
+for the headlines.
+
+This fonts includes long-s and st-ligature for the
+blackletter style typesetting of the german language.
+For the proper usage of the long-s and st-ligature
+consult the ,,Duden'', Chapter: ,,Maschinenschreiben,
+Textsatz und E-Mails'' (Typewriting, Typesetting and
+E-Mails). 
+
+ChangeLog
+
+20.02.2010 (Uwe Borchert) Fabrik Version 1.5
+(Changes to work with lout typesetting)
+- changed encoding to Adobe Standard
+- added endash and emdash
+
+14.02.2010 (Uwe Borchert) Fabrik Version 1.4
+- corrected number 3 in all typefaces
+- Footnote autowidth to 65, changed a and e
+
+09.01.2010 (Uwe Borchert) Fabrik Version 1.3
+- corrected horizontal stem in lower f, fi, ff and
+  ft-ligature in n, b, k, nc, bc, italic and footnote 
+  (according to lower t), changed small g
+
+06.01.2010 (Uwe Borchert) Fabrik Version 1.2
+- corrected horizontal stem in lower f in n, b, k, nc, 
+  bc, italic and footnote (according to lower t)
+- lower apostroph in n, b, k, nc, bc and italic
+
+13.11.2009 (Uwe Borchert) Fabrik Version 1.1
+- added Fabrik BoldCondensed
+- changed small d to smaller in n, b, k, nc, bc
+- changed small e to taller in n, b, k, nc, bc
+- make germandbls thinner in nc
+- Make forgotten changes to akzented characters:
+  changed Aring (n), Idieresis (n, b, k),
+- fixed problem with acroread pdf-viewer for
+  small l, capital I (all except italic)
+
+
+03.11.2009 (Uwe Borchert) Fabrik Version 1.0
+- Totaly rewritten Beteckna Ver 0.2, changed 
+  charakters a, t, addes germandbls, longs and
+  ligatures.
+- Released as "Fabrik"

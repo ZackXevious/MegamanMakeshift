@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Legs
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Arm_lower
+    m_Weight: 0
+  - m_Path: Arm_lower_001
+    m_Weight: 0
+  - m_Path: Arm_Upper
+    m_Weight: 0
+  - m_Path: Arm_Upper_001
+    m_Weight: 0
+  - m_Path: Calf
+    m_Weight: 0
+  - m_Path: Calf_001
+    m_Weight: 0
+  - m_Path: Cube
+    m_Weight: 0
+  - m_Path: Foot
+    m_Weight: 0
+  - m_Path: Foot_001
+    m_Weight: 0
+  - m_Path: LeftHand
+    m_Weight: 0
+  - m_Path: Right_Hand
+    m_Weight: 0
+  - m_Path: Skeleton
+    m_Weight: 1
+  - m_Path: Skeleton/Leg_IK_L
+    m_Weight: 1
+  - m_Path: Skeleton/Leg_IK_L/Knee_L
+    m_Weight: 1
+  - m_Path: Skeleton/Leg_IK_R
+    m_Weight: 1
+  - m_Path: Skeleton/Leg_IK_R/Knee_R
+    m_Weight: 1
+  - m_Path: Skeleton/Pelvis
+    m_Weight: 1
+  - m_Path: Skeleton/Pelvis/Arm_IK_L
+    m_Weight: 0
+  - m_Path: Skeleton/Pelvis/Arm_IK_R
+    m_Weight: 0
+  - m_Path: Skeleton/Pelvis/Elbow_L
+    m_Weight: 0
+  - m_Path: Skeleton/Pelvis/Elbow_R
+    m_Weight: 0
+  - m_Path: Skeleton/Pelvis/Thigh_L
+    m_Weight: 1
+  - m_Path: Skeleton/Pelvis/Thigh_L/Calf_L
+    m_Weight: 1
+  - m_Path: Skeleton/Pelvis/Thigh_L/Calf_L/Foot_L
+    m_Weight: 1
+  - m_Path: Skeleton/Pelvis/Thigh_R
+    m_Weight: 1
+  - m_Path: Skeleton/Pelvis/Thigh_R/Calf_R
+    m_Weight: 1
+  - m_Path: Skeleton/Pelvis/Thigh_R/Calf_R/Foot_R
+    m_Weight: 1
+  - m_Path: Skeleton/Pelvis/Waist
+    m_Weight: 0
+  - m_Path: Skeleton/Pelvis/Waist/Chest
+    m_Weight: 0
+  - m_Path: Skeleton/Pelvis/Waist/Chest/Neck
+    m_Weight: 0
+  - m_Path: Skeleton/Pelvis/Waist/Chest/Neck/Head
+    m_Weight: 0
+  - m_Path: Skeleton/Pelvis/Waist/Chest/Shoulder_L
+    m_Weight: 0
+  - m_Path: Skeleton/Pelvis/Waist/Chest/Shoulder_L/UpperArm_L
+    m_Weight: 0
+  - m_Path: Skeleton/Pelvis/Waist/Chest/Shoulder_L/UpperArm_L/Forearm_L
+    m_Weight: 0
+  - m_Path: Skeleton/Pelvis/Waist/Chest/Shoulder_L/UpperArm_L/Forearm_L/Hand_L
+    m_Weight: 0
+  - m_Path: Skeleton/Pelvis/Waist/Chest/Shoulder_R
+    m_Weight: 0
+  - m_Path: Skeleton/Pelvis/Waist/Chest/Shoulder_R/UpperArm_R
+    m_Weight: 0
+  - m_Path: Skeleton/Pelvis/Waist/Chest/Shoulder_R/UpperArm_R/Forearm_R
+    m_Weight: 0
+  - m_Path: Skeleton/Pelvis/Waist/Chest/Shoulder_R/UpperArm_R/Forearm_R/Hand_R
+    m_Weight: 0
+  - m_Path: Thighs
+    m_Weight: 0
+  - m_Path: Thighs_001
+    m_Weight: 0
+  - m_Path: Torso
+    m_Weight: 0
+  - m_Path: Torso_001
+    m_Weight: 0

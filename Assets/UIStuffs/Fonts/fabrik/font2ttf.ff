@@ -1,0 +1,9 @@
+#!/usr/bin/fontforge
+i = 1;
+while (i < $argc)
+    Print("converting ", $argv[i], "...");
+    Open($argv[i]);
+    ttf = $argv[i]:r + ".ttf";
+    Generate(ttf, "", 1);
+    i++
+endloop

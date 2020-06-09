@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/rock4.obj-04f4b3ef8d8cc7c1256ad638be218c02.mesh"
+
+[deps]
+
+files=[ "res://.import/rock4.obj-04f4b3ef8d8cc7c1256ad638be218c02.mesh" ]
+
+source_file="res://rock4/rock4.obj"
+source_md5="a116647a226b18164f00605027e374fa"
+
+dest_files=[ "res://.import/rock4.obj-04f4b3ef8d8cc7c1256ad638be218c02.mesh", "res://.import/rock4.obj-04f4b3ef8d8cc7c1256ad638be218c02.mesh" ]
+dest_md5="ca5efbece67f1c2472667602d5df0d4c"
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
