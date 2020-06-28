@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 92fc60128b163434797178f6b0833c4a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FabrikBlack
+  fontNames:
+  - FabrikBlack
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 178379229e8dcd9498022269992ab32b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

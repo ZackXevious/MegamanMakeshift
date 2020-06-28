@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: f3d6d913864da6740852909501346767
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Beam_Rifle
+    100002: Buster_Open_
+    100004: Cube
+    100006: Flamethrower
+    100008: //RootNode
+    100010: Lighting_rod
+    100012: RocketLauncher
+    100014: Standard_Buster
+    100016: Cylinder
+    100018: Buster
+    100020: Weapon_Base
+    100022: SniperRifle
+    100024: Shotgun
+    100026: Assault
+    400000: Beam_Rifle
+    400002: Buster_Open_
+    400004: Cube
+    400006: Flamethrower
+    400008: //RootNode
+    400010: Lighting_rod
+    400012: RocketLauncher
+    400014: Standard_Buster
+    400016: Cylinder
+    400018: Buster
+    400020: Weapon_Base
+    400022: SniperRifle
+    400024: Shotgun
+    400026: Assault
+    2100000: Material
+    2100002: unnamed
+    2100004: Armor
+    2100006: PlayerPrimary
+    2100008: WeaponColor
+    2100010: Player_Secondary
+    2100012: PlayerGlow
+    2100014: ShinyBits
+    2300000: Beam_Rifle
+    2300002: Buster_Open_
+    2300004: Cube
+    2300006: Flamethrower
+    2300008: Lighting_rod
+    2300010: RocketLauncher
+    2300012: Standard_Buster
+    2300014: Cylinder
+    2300016: Buster
+    2300018: Weapon_Base
+    2300020: SniperRifle
+    2300022: Shotgun
+    2300024: Assault
+    3300000: Beam_Rifle
+    3300002: Buster_Open_
+    3300004: Cube
+    3300006: Flamethrower
+    3300008: Lighting_rod
+    3300010: RocketLauncher
+    3300012: Standard_Buster
+    3300014: Cylinder
+    3300016: Buster
+    3300018: Weapon_Base
+    3300020: SniperRifle
+    3300022: Shotgun
+    3300024: Assault
+    4300000: Cube
+    4300002: Beam_Rifle
+    4300004: Buster_Open_
+    4300006: Flamethrower
+    4300008: Lighting_rod
+    4300010: RocketLauncher
+    4300012: Standard_Buster
+    4300014: Cylinder
+    4300016: Buster
+    4300018: Weapon_Base
+    4300020: SniperRifle
+    4300022: Shotgun
+    4300024: Assault
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

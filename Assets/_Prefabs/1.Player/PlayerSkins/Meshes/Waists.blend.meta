@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: fd8507e43d0e9ec4f999c7fdb28f5087
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: HaloArmor
+    100002: HaloWaist
+    100004: PrimeChestPiece
+    100006: ToaArmor
+    100008: Torso
+    100010: //RootNode
+    100012: Cube
+    100014: PrimeWaist
+    100016: MKVI
+    100018: MM_Legends
+    100020: TFG1
+    100022: Default1
+    100024: Default2
+    100026: Kanohi
+    100028: Legendary
+    100030: MM_Advent
+    100032: MM_BattleNetwork
+    100034: MM_X
+    100036: MM_Zero
+    400000: HaloArmor
+    400002: HaloWaist
+    400004: PrimeChestPiece
+    400006: ToaArmor
+    400008: Torso
+    400010: //RootNode
+    400012: Cube
+    400014: PrimeWaist
+    400016: MKVI
+    400018: MM_Legends
+    400020: TFG1
+    400022: Default1
+    400024: Default2
+    400026: Kanohi
+    400028: Legendary
+    400030: MM_Advent
+    400032: MM_BattleNetwork
+    400034: MM_X
+    400036: MM_Zero
+    2100000: unnamed
+    2100002: Secondary
+    2100004: Reflection
+    2100006: Primary
+    2100008: Glow
+    2100010: Reflective
+    2100012: Rubber
+    2300000: HaloArmor
+    2300002: HaloWaist
+    2300004: PrimeChestPiece
+    2300006: ToaArmor
+    2300008: Torso
+    2300010: Cube
+    2300012: PrimeWaist
+    2300014: MKVI
+    2300016: MM_Legends
+    2300018: TFG1
+    2300020: Default1
+    2300022: Default2
+    2300024: Kanohi
+    2300026: Legendary
+    2300028: MM_Advent
+    2300030: MM_BattleNetwork
+    2300032: MM_X
+    2300034: MM_Zero
+    3300000: HaloArmor
+    3300002: HaloWaist
+    3300004: PrimeChestPiece
+    3300006: ToaArmor
+    3300008: Torso
+    3300010: Cube
+    3300012: PrimeWaist
+    3300014: MKVI
+    3300016: MM_Legends
+    3300018: TFG1
+    3300020: Default1
+    3300022: Default2
+    3300024: Kanohi
+    3300026: Legendary
+    3300028: MM_Advent
+    3300030: MM_BattleNetwork
+    3300032: MM_X
+    3300034: MM_Zero
+    4300000: HaloWaist
+    4300002: PrimeChestPiece
+    4300004: HaloArmor
+    4300006: ToaArmor
+    4300008: Torso
+    4300010: Cube
+    4300012: PrimeWaist
+    4300014: MM_Legends
+    4300016: TFG1
+    4300018: MKVI
+    4300020: Legendary
+    4300022: MM_Advent
+    4300024: Kanohi
+    4300026: Default1
+    4300028: Default2
+    4300030: MM_X
+    4300032: MM_Zero
+    4300034: MM_BattleNetwork
+    7400000: Default Take
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

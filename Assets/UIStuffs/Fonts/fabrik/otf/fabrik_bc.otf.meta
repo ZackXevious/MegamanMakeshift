@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 0d6f0c245df02a44cb7cb813070d00e5
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FabrikCond
+  fontNames:
+  - FabrikCond
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 011545e9f1321a149b0d29d8b4793cad, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

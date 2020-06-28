@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: dfc46d0c886c1fe40be5228a17347b3b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ArmIK_L
+    100004: ArmIK_R
+    100006: Calf_L
+    100008: Calf_R
+    100010: Chest
+    100012: Cube_001
+    100014: Cube_009
+    100016: CubeHand
+    100018: Elbow_L
+    100020: Elbow_R
+    100022: Fist
+    100024: Foot_L
+    100026: Foot_R
+    100028: FootIK_L
+    100030: FootIK_R
+    100032: Hand_L
+    100034: Hand_R
+    100036: Head
+    100038: Knee_L
+    100040: Knee_R
+    100042: LowerArm_L
+    100044: LowerArm_R
+    100046: MegaRig
+    100048: Middle1_L
+    100050: Middle1_R
+    100052: Middle2_L
+    100054: Middle2_R
+    100056: Neck
+    100058: Pelvis
+    100060: Pinky1_L
+    100062: Pinky1_R
+    100064: Pinky2_L
+    100066: Pinky2_R
+    100068: Point1_L
+    100070: Point1_R
+    100072: Point2_L
+    100074: Point2_R
+    100076: Ring1_L
+    100078: Ring1_R
+    100080: Ring2_L
+    100082: Ring2_R
+    100084: Shoulder_L
+    100086: Shoulder_R
+    100088: Thigh_L
+    100090: Thigh_R
+    100092: Thumb1_L
+    100094: Thumb1_R
+    100096: Thumb2_L
+    100098: Thumb2_R
+    100100: Toes_L
+    100102: Toes_R
+    100104: UpperArm_L
+    100106: UpperArm_R
+    100108: Waist
+    400000: //RootNode
+    400002: ArmIK_L
+    400004: ArmIK_R
+    400006: Calf_L
+    400008: Calf_R
+    400010: Chest
+    400012: Cube_001
+    400014: Cube_009
+    400016: CubeHand
+    400018: Elbow_L
+    400020: Elbow_R
+    400022: Fist
+    400024: Foot_L
+    400026: Foot_R
+    400028: FootIK_L
+    400030: FootIK_R
+    400032: Hand_L
+    400034: Hand_R
+    400036: Head
+    400038: Knee_L
+    400040: Knee_R
+    400042: LowerArm_L
+    400044: LowerArm_R
+    400046: MegaRig
+    400048: Middle1_L
+    400050: Middle1_R
+    400052: Middle2_L
+    400054: Middle2_R
+    400056: Neck
+    400058: Pelvis
+    400060: Pinky1_L
+    400062: Pinky1_R
+    400064: Pinky2_L
+    400066: Pinky2_R
+    400068: Point1_L
+    400070: Point1_R
+    400072: Point2_L
+    400074: Point2_R
+    400076: Ring1_L
+    400078: Ring1_R
+    400080: Ring2_L
+    400082: Ring2_R
+    400084: Shoulder_L
+    400086: Shoulder_R
+    400088: Thigh_L
+    400090: Thigh_R
+    400092: Thumb1_L
+    400094: Thumb1_R
+    400096: Thumb2_L
+    400098: Thumb2_R
+    400100: Toes_L
+    400102: Toes_R
+    400104: UpperArm_L
+    400106: UpperArm_R
+    400108: Waist
+    2100000: unnamed
+    2100002: Material_003
+    2100004: Material_002
+    2100006: Material_014
+    2100008: Material_015
+    2100010: Indicator_001
+    2100012: Material_012
+    2100014: Material_010
+    2100016: Material_011
+    2100018: Material_006
+    2100020: Material_009
+    2300000: //RootNode
+    2300002: Cube_001
+    2300004: CubeHand
+    2300006: Fist
+    3300000: //RootNode
+    3300002: Cube_001
+    3300004: CubeHand
+    3300006: Fist
+    4300000: Right_Hand
+    4300002: CubeHand
+    4300004: Cube_001
+    4300006: Cube_009
+    4300008: Fist
+    7400000: Default Take
+    9500000: //RootNode
+    13700000: Cube_009
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 5c1f48e86957d484bab769e918e24e0c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Fabrik
+  fontNames:
+  - Fabrik
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 379a6b115c0c9de4796a49e0ff6f16ab, type: 3}
+  - {fileID: 12800000, guid: 1524d88426c3dcf4fa708f77917001ad, type: 3}
+  - {fileID: 12800000, guid: 4488ea085975c4f44a84c5f4c0a8eaea, type: 3}
+  - {fileID: 12800000, guid: 0e301a9c7120a6e499f6e14b8be5dc8b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

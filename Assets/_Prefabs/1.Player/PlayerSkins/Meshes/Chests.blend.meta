@@ -1,0 +1,214 @@
+fileFormatVersion: 2
+guid: c4dc193200a727440a7753fbd7e06de5
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cube
+    100004: Torso
+    100006: ToaArmor
+    100008: HaloArmor
+    100010: PrimeChestPiece
+    100012: MM_Legends
+    100014: Default1
+    100016: Default2
+    100018: Legendary
+    100020: MM_ADVENT
+    100022: MM_BattleNetwork
+    100024: MM_X
+    100026: MM_Zero
+    100028: Cube_001
+    100030: Cylinder
+    100032: MM_BattleNetwork_001
+    100034: Torso_001
+    100036: Torso_002
+    100038: TF_Armada
+    100040: Torso_003
+    100042: Default
+    100044: Default_001
+    400000: //RootNode
+    400002: Cube
+    400004: Torso
+    400006: ToaArmor
+    400008: HaloArmor
+    400010: PrimeChestPiece
+    400012: MM_Legends
+    400014: Default1
+    400016: Default2
+    400018: Legendary
+    400020: MM_ADVENT
+    400022: MM_BattleNetwork
+    400024: MM_X
+    400026: MM_Zero
+    400028: Cube_001
+    400030: Cylinder
+    400032: MM_BattleNetwork_001
+    400034: Torso_001
+    400036: Torso_002
+    400038: TF_Armada
+    400040: Torso_003
+    400042: Default
+    400044: Default_001
+    2100000: unnamed
+    2100002: Primary
+    2100004: Reflection
+    2100006: Secondary
+    2100008: Glow
+    2100010: Rubber
+    2300000: //RootNode
+    2300002: Cube
+    2300004: Torso
+    2300006: ToaArmor
+    2300008: HaloArmor
+    2300010: PrimeChestPiece
+    2300012: MM_Legends
+    2300014: Default1
+    2300016: Default2
+    2300018: Legendary
+    2300020: MM_ADVENT
+    2300022: MM_BattleNetwork
+    2300024: MM_X
+    2300026: MM_Zero
+    2300028: Cube_001
+    2300030: Cylinder
+    2300032: MM_BattleNetwork_001
+    2300034: Torso_001
+    2300036: Torso_002
+    2300038: TF_Armada
+    2300040: Torso_003
+    2300042: Default
+    2300044: Default_001
+    3300000: //RootNode
+    3300002: Cube
+    3300004: Torso
+    3300006: ToaArmor
+    3300008: HaloArmor
+    3300010: PrimeChestPiece
+    3300012: MM_Legends
+    3300014: Default1
+    3300016: Default2
+    3300018: Legendary
+    3300020: MM_ADVENT
+    3300022: MM_BattleNetwork
+    3300024: MM_X
+    3300026: MM_Zero
+    3300028: Cube_001
+    3300030: Cylinder
+    3300032: MM_BattleNetwork_001
+    3300034: Torso_001
+    3300036: Torso_002
+    3300038: TF_Armada
+    3300040: Torso_003
+    3300042: Default
+    3300044: Default_001
+    4300000: Cube
+    4300002: Torso
+    4300004: ToaArmor
+    4300006: HaloArmor
+    4300008: PrimeChestPiece
+    4300010: MM_Legends
+    4300012: Legendary
+    4300014: MM_ADVENT
+    4300016: MM_BattleNetwork
+    4300018: MM_Zero
+    4300020: MM_X
+    4300022: Default1
+    4300024: Default2
+    4300026: MM_BattleNetwork_001
+    4300028: Cube_001
+    4300030: Cylinder
+    4300032: Torso_002
+    4300034: Torso_001
+    4300036: TF_Armada
+    4300038: Torso_003
+    4300040: Default_001
+    4300042: Default
+    7400000: Default Take
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

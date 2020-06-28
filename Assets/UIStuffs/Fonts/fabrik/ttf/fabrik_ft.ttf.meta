@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: bd2897a19b761be40967f0ca6b02ecaf
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FabrikFootNote
+  fontNames:
+  - FabrikFootNote
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2fd92cad53d6a964481bbdfc0f3c990f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

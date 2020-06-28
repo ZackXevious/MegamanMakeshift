@@ -1,0 +1,200 @@
+fileFormatVersion: 2
+guid: b9255e542656ab548bdd85d8d80d9aba
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cube
+    100004: HaloShoulder
+    100006: Prime
+    100008: Cube_001
+    100010: Legends
+    100012: HaloShoulder_001
+    100014: HaloShoulder_002
+    100016: Kanohi
+    100018: Default1
+    100020: Default2
+    100022: Legendary
+    100024: MKVI
+    100026: MM_ADVENT
+    100028: MM_BattleNetwork
+    100030: MM_Legends
+    100032: MM_X
+    100034: MM_Zero
+    100036: TF_G1
+    100038: Cylinder
+    400000: //RootNode
+    400002: Cube
+    400004: HaloShoulder
+    400006: Prime
+    400008: Cube_001
+    400010: Legends
+    400012: HaloShoulder_001
+    400014: HaloShoulder_002
+    400016: Kanohi
+    400018: Default1
+    400020: Default2
+    400022: Legendary
+    400024: MKVI
+    400026: MM_ADVENT
+    400028: MM_BattleNetwork
+    400030: MM_Legends
+    400032: MM_X
+    400034: MM_Zero
+    400036: TF_G1
+    400038: Cylinder
+    2100000: Material
+    2100002: Rubber
+    2100004: Primary
+    2100006: Secondary
+    2100008: Reflective
+    2100010: Glow
+    2100012: unnamed
+    2100014: Material_003
+    2300000: //RootNode
+    2300002: Cube
+    2300004: HaloShoulder
+    2300006: Prime
+    2300008: Cube_001
+    2300010: Legends
+    2300012: HaloShoulder_001
+    2300014: HaloShoulder_002
+    2300016: Kanohi
+    2300018: Default1
+    2300020: Default2
+    2300022: Legendary
+    2300024: MKVI
+    2300026: MM_ADVENT
+    2300028: MM_BattleNetwork
+    2300030: MM_Legends
+    2300032: MM_X
+    2300034: MM_Zero
+    2300036: TF_G1
+    2300038: Cylinder
+    3300000: //RootNode
+    3300002: Cube
+    3300004: HaloShoulder
+    3300006: Prime
+    3300008: Cube_001
+    3300010: Legends
+    3300012: HaloShoulder_001
+    3300014: HaloShoulder_002
+    3300016: Kanohi
+    3300018: Default1
+    3300020: Default2
+    3300022: Legendary
+    3300024: MKVI
+    3300026: MM_ADVENT
+    3300028: MM_BattleNetwork
+    3300030: MM_Legends
+    3300032: MM_X
+    3300034: MM_Zero
+    3300036: TF_G1
+    3300038: Cylinder
+    4300000: Cube
+    4300002: HaloShoulder
+    4300004: Prime
+    4300006: Cube_001
+    4300008: Legends
+    4300010: HaloShoulder_002
+    4300012: HaloShoulder_001
+    4300014: Kanohi
+    4300016: Legendary
+    4300018: MM_ADVENT
+    4300020: Default1
+    4300022: Default2
+    4300024: MM_X
+    4300026: MM_Zero
+    4300028: MM_Legends
+    4300030: TF_G1
+    4300032: MKVI
+    4300034: MM_BattleNetwork
+    4300036: Cylinder
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,231 @@
+fileFormatVersion: 2
+guid: e33680269f14b044090e6b2e5de428d9
+timeCreated: 1534390400
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: rock_1
+    100002: rock_1_base_tex
+    100004: rock_1_basemesh
+    100006: rock_1_collision
+    100008: rock_1_LOD_1
+    100010: rock_1_LOD_2
+    100012: rock_2
+    100014: rock_2_base_tex
+    100016: rock_2_basemesh
+    100018: rock_2_collision
+    100020: rock_2_LOD_1
+    100022: rock_2_LOD_2
+    100024: rock_3
+    100026: rock_3_base_tex
+    100028: rock_3_basemesh
+    100030: rock_3_collision
+    100032: rock_3_LOD_1
+    100034: rock_3_LOD_2
+    100036: rock_4
+    100038: rock_4_base_tex
+    100040: rock_4_basemesh
+    100042: rock_4_collision
+    100044: rock_4_LOD_1
+    100046: rock_4_LOD_2
+    100048: rock_5
+    100050: rock_5_base_tex
+    100052: rock_5_basemesh
+    100054: rock_5_collision
+    100056: rock_5_LOD_1
+    100058: rock_5_LOD_2
+    100060: //RootNode
+    400000: rock_1
+    400002: rock_1_base_tex
+    400004: rock_1_basemesh
+    400006: rock_1_collision
+    400008: rock_1_LOD_1
+    400010: rock_1_LOD_2
+    400012: rock_2
+    400014: rock_2_base_tex
+    400016: rock_2_basemesh
+    400018: rock_2_collision
+    400020: rock_2_LOD_1
+    400022: rock_2_LOD_2
+    400024: rock_3
+    400026: rock_3_base_tex
+    400028: rock_3_basemesh
+    400030: rock_3_collision
+    400032: rock_3_LOD_1
+    400034: rock_3_LOD_2
+    400036: rock_4
+    400038: rock_4_base_tex
+    400040: rock_4_basemesh
+    400042: rock_4_collision
+    400044: rock_4_LOD_1
+    400046: rock_4_LOD_2
+    400048: rock_5
+    400050: rock_5_base_tex
+    400052: rock_5_basemesh
+    400054: rock_5_collision
+    400056: rock_5_LOD_1
+    400058: rock_5_LOD_2
+    400060: //RootNode
+    2300000: rock_1
+    2300002: rock_1_base_tex
+    2300004: rock_1_basemesh
+    2300006: rock_1_collision
+    2300008: rock_1_LOD_1
+    2300010: rock_1_LOD_2
+    2300012: rock_2
+    2300014: rock_2_base_tex
+    2300016: rock_2_basemesh
+    2300018: rock_2_collision
+    2300020: rock_2_LOD_1
+    2300022: rock_2_LOD_2
+    2300024: rock_3
+    2300026: rock_3_base_tex
+    2300028: rock_3_basemesh
+    2300030: rock_3_collision
+    2300032: rock_3_LOD_1
+    2300034: rock_3_LOD_2
+    2300036: rock_4
+    2300038: rock_4_base_tex
+    2300040: rock_4_basemesh
+    2300042: rock_4_collision
+    2300044: rock_4_LOD_1
+    2300046: rock_4_LOD_2
+    2300048: rock_5
+    2300050: rock_5_base_tex
+    2300052: rock_5_basemesh
+    2300054: rock_5_collision
+    2300056: rock_5_LOD_1
+    2300058: rock_5_LOD_2
+    3300000: rock_1
+    3300002: rock_1_base_tex
+    3300004: rock_1_basemesh
+    3300006: rock_1_collision
+    3300008: rock_1_LOD_1
+    3300010: rock_1_LOD_2
+    3300012: rock_2
+    3300014: rock_2_base_tex
+    3300016: rock_2_basemesh
+    3300018: rock_2_collision
+    3300020: rock_2_LOD_1
+    3300022: rock_2_LOD_2
+    3300024: rock_3
+    3300026: rock_3_base_tex
+    3300028: rock_3_basemesh
+    3300030: rock_3_collision
+    3300032: rock_3_LOD_1
+    3300034: rock_3_LOD_2
+    3300036: rock_4
+    3300038: rock_4_base_tex
+    3300040: rock_4_basemesh
+    3300042: rock_4_collision
+    3300044: rock_4_LOD_1
+    3300046: rock_4_LOD_2
+    3300048: rock_5
+    3300050: rock_5_base_tex
+    3300052: rock_5_basemesh
+    3300054: rock_5_collision
+    3300056: rock_5_LOD_1
+    3300058: rock_5_LOD_2
+    4300000: rock_5_LOD_2
+    4300002: rock_5_LOD_1
+    4300004: rock_4_LOD_2
+    4300006: rock_4_LOD_1
+    4300008: rock_3_LOD_2
+    4300010: rock_3_LOD_1
+    4300012: rock_2_LOD_2
+    4300014: rock_2_LOD_1
+    4300016: rock_1_LOD_2
+    4300018: rock_1_LOD_1
+    4300020: rock_5
+    4300022: rock_5_collision
+    4300024: rock_5_base_tex
+    4300026: rock_5_basemesh
+    4300028: rock_4_collision
+    4300030: rock_4
+    4300032: rock_4_base_tex
+    4300034: rock_4_basemesh
+    4300036: rock_3
+    4300038: rock_3_collision
+    4300040: rock_3_base_tex
+    4300042: rock_3_basemesh
+    4300044: rock_2
+    4300046: rock_2_collision
+    4300048: rock_2_base_tex
+    4300050: rock_1
+    4300052: rock_1_collision
+    4300054: rock_2_basemesh
+    4300056: rock_1_base_tex
+    4300058: rock_1_basemesh
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

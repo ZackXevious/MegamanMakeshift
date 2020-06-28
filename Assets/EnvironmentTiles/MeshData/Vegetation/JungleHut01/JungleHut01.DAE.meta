@@ -1,0 +1,227 @@
+fileFormatVersion: 2
+guid: 71dece37bc1b9564e904be0c4d675e58
+timeCreated: 1534576487
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ' 1'
+    100002: Base01
+    100004: colbox-1
+    100006: colbox-10
+    100008: colbox-11
+    100010: colbox-12
+    100012: colbox-13
+    100014: colbox-14
+    100016: colbox-15
+    100018: colbox-16
+    100020: colbox-17
+    100022: colbox-18
+    100024: colbox-19
+    100026: colbox-2
+    100028: colbox-3
+    100030: colbox-4
+    100032: colbox-5
+    100034: colbox-6
+    100036: colbox-7
+    100038: colbox-8
+    100040: colbox-9
+    100042: collision-1
+    100044: collision-10
+    100046: collision-11
+    100048: collision-12
+    100050: collision-13
+    100052: collision-14
+    100054: collision-15
+    100056: collision-16
+    100058: collision-17
+    100060: collision-18
+    100062: collision-19
+    100064: collision-2
+    100066: collision-3
+    100068: collision-4
+    100070: collision-5
+    100072: collision-6
+    100074: collision-7
+    100076: collision-8
+    100078: collision-9
+    100080: detail256
+    100082: EnvironmentAmbientLight
+    100084: //RootNode
+    100086: JungleHutOne256
+    100088: Start01
+    400000: ' 1'
+    400002: Base01
+    400004: colbox-1
+    400006: colbox-10
+    400008: colbox-11
+    400010: colbox-12
+    400012: colbox-13
+    400014: colbox-14
+    400016: colbox-15
+    400018: colbox-16
+    400020: colbox-17
+    400022: colbox-18
+    400024: colbox-19
+    400026: colbox-2
+    400028: colbox-3
+    400030: colbox-4
+    400032: colbox-5
+    400034: colbox-6
+    400036: colbox-7
+    400038: colbox-8
+    400040: colbox-9
+    400042: collision-1
+    400044: collision-10
+    400046: collision-11
+    400048: collision-12
+    400050: collision-13
+    400052: collision-14
+    400054: collision-15
+    400056: collision-16
+    400058: collision-17
+    400060: collision-18
+    400062: collision-19
+    400064: collision-2
+    400066: collision-3
+    400068: collision-4
+    400070: collision-5
+    400072: collision-6
+    400074: collision-7
+    400076: collision-8
+    400078: collision-9
+    400080: detail256
+    400082: EnvironmentAmbientLight
+    400084: //RootNode
+    400086: JungleHutOne256
+    400088: Start01
+    2300000: ' 1'
+    2300002: colbox-1
+    2300004: colbox-10
+    2300006: colbox-11
+    2300008: colbox-12
+    2300010: colbox-13
+    2300012: colbox-14
+    2300014: colbox-15
+    2300016: colbox-16
+    2300018: colbox-17
+    2300020: colbox-18
+    2300022: colbox-19
+    2300024: colbox-2
+    2300026: colbox-3
+    2300028: colbox-4
+    2300030: colbox-5
+    2300032: colbox-6
+    2300034: colbox-7
+    2300036: colbox-8
+    2300038: colbox-9
+    3300000: ' 1'
+    3300002: colbox-1
+    3300004: colbox-10
+    3300006: colbox-11
+    3300008: colbox-12
+    3300010: colbox-13
+    3300012: colbox-14
+    3300014: colbox-15
+    3300016: colbox-16
+    3300018: colbox-17
+    3300020: colbox-18
+    3300022: colbox-19
+    3300024: colbox-2
+    3300026: colbox-3
+    3300028: colbox-4
+    3300030: colbox-5
+    3300032: colbox-6
+    3300034: colbox-7
+    3300036: colbox-8
+    3300038: colbox-9
+    4300002: colbox-1
+    4300004: colbox-2
+    4300006: colbox-3
+    4300008: colbox-4
+    4300010: colbox-5
+    4300012: colbox-6
+    4300014: colbox-7
+    4300016: colbox-8
+    4300018: colbox-9
+    4300020: colbox-10
+    4300022: colbox-11
+    4300024: colbox-12
+    4300026: colbox-14
+    4300028: colbox-15
+    4300030: colbox-13
+    4300032: colbox-16
+    4300034: colbox-17
+    4300036: colbox-18
+    4300038: colbox-19
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
